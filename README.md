@@ -3,4 +3,8 @@ Cricket scorecards at the feet of your terminal.Helps in getting rid of cricket 
 
 # How to run
 
-1. Install pip and python
+1. Check and install python 3.x if not present:
+ ```bash
+  python -v # To check python version
+ ```
+Python binaries are present on https://www.python.org/downloads/ 
