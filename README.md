@@ -8,3 +8,6 @@ Cricket scorecards at the feet of your terminal.Helps in getting rid of cricket 
   python -v # To check python version
  ```
 Python binaries are present on https://www.python.org/downloads/ 
+
+2. Install and run the command line app.
+
